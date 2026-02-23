@@ -37,7 +37,7 @@ Asegúrate de tener Node.js instalado en tu equipo.
 1. Clonar el repositorio:
 
 ```bash
-git clone <URL-DE-TU-REPOSITORIO>
+git clone https://github.com/Fabricio-Paragulla/Modelo-DOM.git
 cd modelo-dom
 ```
 
